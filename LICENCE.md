@@ -1,0 +1,2 @@
+#LICENCE file
+Some licence
